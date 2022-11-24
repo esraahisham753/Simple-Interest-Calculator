@@ -1,12 +1,18 @@
 # Simple-Interest-Calculator
 The app let user input the amount of money, interest rate and number of years, the the app outputs the interest amount gained through those years.
 
+## Link to try the calculator
+https://essimpleinterestcalculator.netlify.app/
+
+## Demo link for the calculator
+
+
 ## Used equation
 Interest = amount of money * number of years * interest rate / 100
 
 ## Controls used
 ### Amount of money
-Input of type number
+Input of type number accepts only positive numbers
 ### Interest rate
 Slider for selecting the rate and span next to the slider that shows the selected value of the slider using javascript, as the selected value of range input type does not appear by default.
 Minimum value for the slider = 1%

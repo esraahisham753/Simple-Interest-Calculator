@@ -5,7 +5,7 @@ The app let user input the amount of money, interest rate and number of years, t
 https://essimpleinterestcalculator.netlify.app/
 
 ## Demo link for the calculator
-
+https://www.youtube.com/watch?v=k1sixtDKLXw
 
 ## Used equation
 Interest = amount of money * number of years * interest rate / 100
